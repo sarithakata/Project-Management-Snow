@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="project_manager_name" label="Project Manager Name" language="en" table="x_306278_project_m_project_managment">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>project_manager_name</element>
+            <help/>
+            <hint/>
+            <label>Project Manager Name</label>
+            <language>en</language>
+            <name>x_306278_project_m_project_managment</name>
+            <plural>Project Manager Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-21 11:07:47</sys_created_on>
+            <sys_id>e477b8c9db3323003696bd513996194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Project Manager Name</sys_name>
+            <sys_package display_value="Project Managment" source="x_306278_project_m">39b43809db3323003696bd5139961995</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Project Managment">39b43809db3323003696bd5139961995</sys_scope>
+            <sys_update_name>sys_documentation_x_306278_project_m_project_managment_project_manager_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-21 11:07:47</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

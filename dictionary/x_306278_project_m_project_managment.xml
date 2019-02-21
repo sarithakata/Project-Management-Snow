@@ -1,8 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Project-Managment" max_length="40" name="x_306278_project_m_project_managment" type="collection">
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Project Manager Name" max_length="32" name="project_manager_name" reference="x_306278_project_m_project_managers" type="reference"/>
+        <element label="Project Name" mandatory="true" max_length="40" name="project_name" type="string"/>
+        <element label="Secondary Manager" max_length="32" name="secondary_manager" reference="x_306278_project_m_project_managers" type="reference"/>
+        <element choice="1" display="true" label="State" max_length="40" name="state" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Closed" sequence="0" value="5"/>
+                <element inactive_on_update="false" label="Delivered" sequence="1" value="delivered"/>
+                <element inactive_on_update="false" label="Execution" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Initialization" sequence="3" value="1"/>
+                <element inactive_on_update="false" label="Monitoring &amp; Control" sequence="4" value="4"/>
+                <element inactive_on_update="false" label="Planning" sequence="5" value="2"/>
+            </choice>
+        </element>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Project Type" max_length="40" name="u_choice_6" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Software development" sequence="0" value="software development"/>
+                <element inactive_on_update="false" label="Agile" sequence="1" value="agile"/>
+                <element inactive_on_update="false" label="Ticketing" sequence="2" value="ticketing"/>
+                <element inactive_on_update="false" label="Scrum" sequence="3" value="scrum"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Customer" max_length="40" name="u_choice_9" type="string">
+            <choice>
+                <element inactive_on_update="false" label="TechM" sequence="0" value="techm"/>
+                <element inactive_on_update="false" label="wipro" sequence="1" value="wipro"/>
+                <element inactive_on_update="false" label="IBM" sequence="2" value="ibm"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Proposed Strat Date" max_length="40" name="u_glide_date_2" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Actual Start Date" max_length="40" name="u_glide_date_3" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Proposed End Date" max_length="40" name="u_glide_date_4" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Actual End Date" max_length="40" name="u_glide_date_5" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Project Budget" max_length="40" name="u_string_7" type="string"/>
         <index name="index">
+            <element name="project_manager_name"/>
+        </index>
+        <index name="index2">
+            <element name="secondary_manager"/>
+        </index>
+        <index name="index3">
             <element name="sys_class_name"/>
         </index>
     </element>
