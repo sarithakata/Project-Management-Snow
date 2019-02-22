@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Project-Managment" max_length="40" name="x_306278_project_m_project_managment" type="collection">
-        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:global.getNextObjNumberPadded();" display="true" label="Project Number" max_length="40" name="number" type="string"/>
         <element label="Project Manager Name" max_length="32" name="project_manager_name" reference="x_306278_project_m_project_managers" type="reference"/>
         <element label="Project Name" mandatory="true" max_length="40" name="project_name" type="string"/>
         <element label="Secondary Manager" max_length="32" name="secondary_manager" reference="x_306278_project_m_project_managers" type="reference"/>
-        <element choice="1" display="true" label="State" max_length="40" name="state" type="choice">
+        <element choice="1" label="State" max_length="40" name="state" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Closed" sequence="0" value="5"/>
                 <element inactive_on_update="false" label="Delivered" sequence="1" value="delivered"/>

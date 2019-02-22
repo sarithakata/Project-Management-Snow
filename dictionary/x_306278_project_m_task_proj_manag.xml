@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Task Proj Manag" max_length="40" name="x_306278_project_m_task_proj_manag" type="collection">
+        <element label="Description" max_length="40" name="description" type="string"/>
+        <element display="true" label="Milestone ID" max_length="20" name="milestone_id" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Project Number" max_length="40" name="project_number" type="string"/>
+    </element>
+</database>
