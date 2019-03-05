@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Risk Management" max_length="40" name="x_306278_project_m_risk_management" type="collection">
+        <element display="true" label="Action to minimize risk" max_length="10000" name="action_to_minimize_risk" type="string_full_utf8"/>
+        <element label="Description" mandatory="true" max_length="10000" name="description" type="string_full_utf8"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Probability" max_length="100" name="probability" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="High" value="1"/>
+                <element inactive_on_update="false" label="Medium" sequence="2" value="2"/>
+                <element inactive_on_update="false" label="Low" sequence="3" value="3"/>
+            </choice>
+        </element>
+        <element label="Risk" max_length="10000" name="risk" type="string_full_utf8"/>
+        <element choice="1" label="Severity" max_length="100" name="severity" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Major" sequence="1" value="1"/>
+                <element inactive_on_update="false" label="Catastrophic" sequence="2" value="2"/>
+            </choice>
+        </element>
+    </element>
+</database>

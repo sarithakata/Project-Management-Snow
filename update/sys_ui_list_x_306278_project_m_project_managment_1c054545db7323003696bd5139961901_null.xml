@@ -53,7 +53,7 @@
             <name>x_306278_project_m_milestones</name>
             <parent>x_306278_project_m_project_managment</parent>
             <position/>
-            <relationship display_value="Proj Mang Milestones">1c054545db7323003696bd5139961901</relationship>
+            <relationship display_value="Milestones">1c054545db7323003696bd5139961901</relationship>
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>

@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-02-22 09:27:00</sys_created_on>
-            <sys_id>caf9e955db3323003696bd5139961902</sys_id>
+            <sys_created_on>2019-03-04 11:36:21</sys_created_on>
+            <sys_id>2277612cdbc033003696bd5139961962</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_project_managment" sys_domain="global" view="Default view">2b267889db3323003696bd5139961930</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-02-22 09:27:00</sys_updated_on>
+            <sys_updated_on>2019-03-04 11:36:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>project_name</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-02-22 09:27:00</sys_created_on>
-            <sys_id>82f9e955db3323003696bd5139961903</sys_id>
+            <sys_created_on>2019-03-04 11:36:21</sys_created_on>
+            <sys_id>a277612cdbc033003696bd5139961962</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_project_managment" sys_domain="global" view="Default view">2b267889db3323003696bd5139961930</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-02-22 09:27:00</sys_updated_on>
+            <sys_updated_on>2019-03-04 11:36:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>project_manager_name</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-02-22 09:27:00</sys_created_on>
-            <sys_id>06f9e955db3323003696bd5139961903</sys_id>
+            <sys_created_on>2019-03-04 11:36:21</sys_created_on>
+            <sys_id>2677612cdbc033003696bd5139961962</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_project_managment" sys_domain="global" view="Default view">2b267889db3323003696bd5139961930</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-02-22 09:27:00</sys_updated_on>
+            <sys_updated_on>2019-03-04 11:36:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,181 +46,195 @@
             <element>secondary_manager</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-02-22 09:27:00</sys_created_on>
-            <sys_id>86f9e955db3323003696bd5139961903</sys_id>
+            <sys_created_on>2019-03-04 11:36:21</sys_created_on>
+            <sys_id>a677612cdbc033003696bd5139961962</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_project_managment" sys_domain="global" view="Default view">2b267889db3323003696bd5139961930</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-02-22 09:27:00</sys_updated_on>
+            <sys_updated_on>2019-03-04 11:36:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
+            <element>u_choice_9</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-02-22 09:27:00</sys_created_on>
-            <sys_id>0af9e955db3323003696bd5139961903</sys_id>
+            <sys_created_on>2019-03-04 11:36:21</sys_created_on>
+            <sys_id>2a77612cdbc033003696bd5139961962</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_project_managment" sys_domain="global" view="Default view">2b267889db3323003696bd5139961930</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-02-22 09:27:00</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_choice_9</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-02-22 09:27:00</sys_created_on>
-            <sys_id>8af9e955db3323003696bd5139961903</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_project_managment" sys_domain="global" view="Default view">2b267889db3323003696bd5139961930</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-02-22 09:27:00</sys_updated_on>
+            <sys_updated_on>2019-03-04 11:36:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>state</element>
-            <position>6</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-02-22 09:27:00</sys_created_on>
-            <sys_id>0ef9e955db3323003696bd5139961903</sys_id>
+            <sys_created_on>2019-03-04 11:36:21</sys_created_on>
+            <sys_id>aa77612cdbc033003696bd5139961962</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_project_managment" sys_domain="global" view="Default view">2b267889db3323003696bd5139961930</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-02-22 09:27:00</sys_updated_on>
+            <sys_updated_on>2019-03-04 11:36:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_choice_6</element>
-            <position>7</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-02-22 09:27:00</sys_created_on>
-            <sys_id>8ef9e955db3323003696bd5139961903</sys_id>
+            <sys_created_on>2019-03-04 11:36:21</sys_created_on>
+            <sys_id>2e77612cdbc033003696bd5139961962</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_project_managment" sys_domain="global" view="Default view">2b267889db3323003696bd5139961930</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-02-22 09:27:00</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_string_7</element>
-            <position>8</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-02-22 09:27:00</sys_created_on>
-            <sys_id>02f9e955db3323003696bd5139961904</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_project_managment" sys_domain="global" view="Default view">2b267889db3323003696bd5139961930</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-02-22 09:27:00</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.end_split</element>
-            <position>9</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-02-22 09:27:00</sys_created_on>
-            <sys_id>82f9e955db3323003696bd5139961904</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_project_managment" sys_domain="global" view="Default view">2b267889db3323003696bd5139961930</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-02-22 09:27:00</sys_updated_on>
-            <sys_user/>
-            <type>.end_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.begin_split</element>
-            <position>10</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-02-22 09:27:00</sys_created_on>
-            <sys_id>06f9e955db3323003696bd5139961904</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_project_managment" sys_domain="global" view="Default view">2b267889db3323003696bd5139961930</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-02-22 09:27:00</sys_updated_on>
-            <sys_user/>
-            <type>.begin_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_glide_date_2</element>
-            <position>11</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-02-22 09:27:00</sys_created_on>
-            <sys_id>86f9e955db3323003696bd5139961904</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_project_managment" sys_domain="global" view="Default view">2b267889db3323003696bd5139961930</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-02-22 09:27:00</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_glide_date_4</element>
-            <position>12</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-02-22 09:27:00</sys_created_on>
-            <sys_id>0af9e955db3323003696bd5139961904</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_project_managment" sys_domain="global" view="Default view">2b267889db3323003696bd5139961930</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-02-22 09:27:00</sys_updated_on>
+            <sys_updated_on>2019-03-04 11:36:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>13</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-02-22 09:27:00</sys_created_on>
-            <sys_id>8af9e955db3323003696bd5139961904</sys_id>
+            <sys_created_on>2019-03-04 11:36:21</sys_created_on>
+            <sys_id>ae77612cdbc033003696bd5139961962</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_project_managment" sys_domain="global" view="Default view">2b267889db3323003696bd5139961930</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-02-22 09:27:00</sys_updated_on>
+            <sys_updated_on>2019-03-04 11:36:21</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_glide_date_3</element>
-            <position>14</position>
+            <element>project_budget</element>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-02-22 09:27:00</sys_created_on>
-            <sys_id>0ef9e955db3323003696bd5139961904</sys_id>
+            <sys_created_on>2019-03-04 11:36:21</sys_created_on>
+            <sys_id>2277612cdbc033003696bd5139961963</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_project_managment" sys_domain="global" view="Default view">2b267889db3323003696bd5139961930</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-02-22 09:27:00</sys_updated_on>
+            <sys_updated_on>2019-03-04 11:36:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ovearloaded_budger</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-04 11:36:21</sys_created_on>
+            <sys_id>a277612cdbc033003696bd5139961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_project_managment" sys_domain="global" view="Default view">2b267889db3323003696bd5139961930</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-04 11:36:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_date_2</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-04 11:36:21</sys_created_on>
+            <sys_id>2677612cdbc033003696bd5139961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_project_managment" sys_domain="global" view="Default view">2b267889db3323003696bd5139961930</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-04 11:36:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_date_4</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-04 11:36:21</sys_created_on>
+            <sys_id>a677612cdbc033003696bd5139961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_project_managment" sys_domain="global" view="Default view">2b267889db3323003696bd5139961930</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-04 11:36:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_glide_date_3</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-04 11:36:21</sys_created_on>
+            <sys_id>2a77612cdbc033003696bd5139961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_project_managment" sys_domain="global" view="Default view">2b267889db3323003696bd5139961930</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-04 11:36:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_glide_date_5</element>
-            <position>15</position>
+            <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-02-22 09:27:00</sys_created_on>
-            <sys_id>8ef9e955db3323003696bd5139961904</sys_id>
+            <sys_created_on>2019-03-04 11:36:21</sys_created_on>
+            <sys_id>aa77612cdbc033003696bd5139961963</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_project_managment" sys_domain="global" view="Default view">2b267889db3323003696bd5139961930</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-02-22 09:27:00</sys_updated_on>
+            <sys_updated_on>2019-03-04 11:36:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-04 11:36:21</sys_created_on>
+            <sys_id>2e77612cdbc033003696bd5139961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_project_managment" sys_domain="global" view="Default view">2b267889db3323003696bd5139961930</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-04 11:36:21</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_project_description</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-04 11:36:21</sys_created_on>
+            <sys_id>ae77612cdbc033003696bd5139961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_project_managment" sys_domain="global" view="Default view">2b267889db3323003696bd5139961930</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-04 11:36:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project_learnings</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-05 09:39:43</sys_created_on>
+            <sys_id>ab565230dbcc33003696bd51399619f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_project_managment" sys_domain="global" view="Default view">2b267889db3323003696bd5139961930</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-05 09:39:43</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

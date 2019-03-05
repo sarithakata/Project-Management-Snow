@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="47c2cd92db3323003696bd5139961944" sys_domain="global" table="x_306278_project_m_task_proj_manag" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-25 09:09:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5bc241d2db3323003696bd513996192b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_306278_project_m_task_proj_manag" name="x_306278_project_m_task_proj_manag" sys_domain="global" view="Default view">47c2cd92db3323003696bd5139961944</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_task_proj_manag" sys_domain="global" view="Default view">fb0bca1ddb7323003696bd513996193d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-25 09:09:47</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_306278_project_m_task_proj_manag</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-25 09:09:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>47c2cd92db3323003696bd5139961944</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_306278_project_m_task_proj_manag</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Project Managment" source="x_306278_project_m">39b43809db3323003696bd5139961995</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Project Managment">39b43809db3323003696bd5139961995</sys_scope>
+            <sys_update_name>sys_ui_form_sections_47c2cd92db3323003696bd5139961944</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-25 09:09:47</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

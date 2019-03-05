@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="spent_as_of_now" label="Spent As Of Now" language="en" table="x_306278_project_m_task_proj_manag">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>spent_as_of_now</element>
+            <help/>
+            <hint/>
+            <label>Spent As Of Now</label>
+            <language>en</language>
+            <name>x_306278_project_m_task_proj_manag</name>
+            <plural>Spent As Of Nows</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-25 09:26:16</sys_created_on>
+            <sys_id>30960d56db3323003696bd5139961964</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Spent As Of Now</sys_name>
+            <sys_package display_value="Project Managment" source="x_306278_project_m">39b43809db3323003696bd5139961995</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Project Managment">39b43809db3323003696bd5139961995</sys_scope>
+            <sys_update_name>sys_documentation_x_306278_project_m_task_proj_manag_spent_as_of_now_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-25 09:26:16</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

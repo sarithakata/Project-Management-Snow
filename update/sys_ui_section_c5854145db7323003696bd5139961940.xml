@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-02-22 11:56:34</sys_created_on>
-            <sys_id>c13c869ddb7323003696bd51399619c7</sys_id>
+            <sys_created_on>2019-02-25 12:19:28</sys_created_on>
+            <sys_id>b53e2d52dbb323003696bd5139961962</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_milestones" sys_domain="global" view="Default view">c5854145db7323003696bd5139961940</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-02-22 11:56:34</sys_updated_on>
+            <sys_updated_on>2019-02-25 12:19:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>project_number</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-02-22 11:56:34</sys_created_on>
-            <sys_id>453c869ddb7323003696bd51399619c7</sys_id>
+            <sys_created_on>2019-02-25 12:19:28</sys_created_on>
+            <sys_id>3d3e2d52dbb323003696bd5139961962</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_milestones" sys_domain="global" view="Default view">c5854145db7323003696bd5139961940</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-02-22 11:56:34</sys_updated_on>
+            <sys_updated_on>2019-02-25 12:19:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>start_date</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-02-22 11:56:34</sys_created_on>
-            <sys_id>c53c869ddb7323003696bd51399619c7</sys_id>
+            <sys_created_on>2019-02-25 12:19:28</sys_created_on>
+            <sys_id>bd3e2d52dbb323003696bd5139961962</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_milestones" sys_domain="global" view="Default view">c5854145db7323003696bd5139961940</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-02-22 11:56:34</sys_updated_on>
+            <sys_updated_on>2019-02-25 12:19:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>end_date</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-02-22 11:56:34</sys_created_on>
-            <sys_id>493c869ddb7323003696bd51399619c7</sys_id>
+            <sys_created_on>2019-02-25 12:19:28</sys_created_on>
+            <sys_id>313e2d52dbb323003696bd5139961963</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_milestones" sys_domain="global" view="Default view">c5854145db7323003696bd5139961940</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-02-22 11:56:34</sys_updated_on>
+            <sys_updated_on>2019-02-25 12:19:28</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,41 @@
             <element>milestone_description</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-02-22 11:56:34</sys_created_on>
-            <sys_id>c93c869ddb7323003696bd51399619c7</sys_id>
+            <sys_created_on>2019-02-25 12:19:28</sys_created_on>
+            <sys_id>b13e2d52dbb323003696bd5139961963</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_milestones" sys_domain="global" view="Default view">c5854145db7323003696bd5139961940</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-02-22 11:56:34</sys_updated_on>
+            <sys_updated_on>2019-02-25 12:19:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>milestone_budget</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-02-25 12:19:28</sys_created_on>
+            <sys_id>353e2d52dbb323003696bd5139961963</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_milestones" sys_domain="global" view="Default view">c5854145db7323003696bd5139961940</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-02-25 12:19:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-05 09:30:59</sys_created_on>
+            <sys_id>bf54d67cdb8c33003696bd5139961954</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_306278_project_m_milestones" sys_domain="global" view="Default view">c5854145db7323003696bd5139961940</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-05 09:30:59</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

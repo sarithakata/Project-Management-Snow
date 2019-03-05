@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Task Proj Manag" max_length="40" name="x_306278_project_m_task_proj_manag" type="collection">
         <element label="Description" max_length="40" name="description" type="string"/>
-        <element display="true" label="Milestone ID" max_length="20" name="milestone_id" type="string"/>
-        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Project Number" max_length="40" name="project_number" type="string"/>
+        <element label="Milestone ID" max_length="20" name="milestone_id" read_only="true" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Task Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Project Number" max_length="40" name="project_number" read_only="true" type="string"/>
+        <element label="Spent As Of Now" max_length="100" name="spent_as_of_now" type="decimal"/>
+        <element label="Task Budget" max_length="15" name="task_budget" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Task Start Date" max_length="40" name="u_glide_date_1" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Task End Date" max_length="40" name="u_glide_date_2" type="glide_date"/>
     </element>
 </database>

@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Project-Managment" max_length="40" name="x_306278_project_m_project_managment" type="collection">
-        <element default="javascript:global.getNextObjNumberPadded();" display="true" label="Project Number" max_length="40" name="number" type="string"/>
-        <element label="Project Manager Name" max_length="32" name="project_manager_name" reference="x_306278_project_m_project_managers" type="reference"/>
+        <element default="javascript:global.getNextObjNumberPadded();" label="Project Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element label="Ovearloaded Budget" max_length="15" name="ovearloaded_budger" type="decimal"/>
+        <element label="Project Budget" max_length="15" name="project_budget" type="decimal"/>
+        <element display="true" label="Project Learnings" max_length="100" name="project_learnings" type="string_full_utf8"/>
+        <element label="Project Manager Name" max_length="32" name="project_manager_name" reference="sys_user" type="reference"/>
         <element label="Project Name" mandatory="true" max_length="40" name="project_name" type="string"/>
         <element label="Secondary Manager" max_length="32" name="secondary_manager" reference="x_306278_project_m_project_managers" type="reference"/>
-        <element choice="1" label="State" max_length="40" name="state" type="choice">
+        <element choice="3" default="1" label="State" max_length="40" name="state" type="choice">
             <choice>
-                <element inactive_on_update="false" label="Closed" sequence="0" value="5"/>
-                <element inactive_on_update="false" label="Delivered" sequence="1" value="delivered"/>
+                <element inactive_on_update="false" label="Initialization" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Planning" sequence="1" value="2"/>
                 <element inactive_on_update="false" label="Execution" sequence="2" value="3"/>
-                <element inactive_on_update="false" label="Initialization" sequence="3" value="1"/>
-                <element inactive_on_update="false" label="Monitoring &amp; Control" sequence="4" value="4"/>
-                <element inactive_on_update="false" label="Planning" sequence="5" value="2"/>
+                <element inactive_on_update="false" label="Monitoring &amp; Control" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="Delivered" sequence="4" value="delivered"/>
+                <element inactive_on_update="false" label="Closed" sequence="5" value="5"/>
             </choice>
         </element>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
